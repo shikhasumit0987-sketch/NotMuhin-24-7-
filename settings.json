@@ -8,7 +8,7 @@
   "server": {
     "ip": "Herobrine16.aternos.me",
     "port": 12163,
-    "version": "1.20.1",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "arhan@"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to PRIME_ANKIT_YT!",
+        ""
       ]
     },
     "chat-log": true,
